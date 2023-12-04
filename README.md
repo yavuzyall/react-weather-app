@@ -1,3 +1,6 @@
+## What is this??
+An application that retrieves weather information via weather api with React and brings information for the searched city / country.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
